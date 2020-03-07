@@ -1,0 +1,2 @@
+rootProject.name='BTRL_DaTienTrinh_TaiHinh'
+include ':app'
